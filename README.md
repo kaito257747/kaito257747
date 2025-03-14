@@ -6,7 +6,3 @@ cd KaitocpmTool
 pip install -r requirements.txt
 python main.py
 
-<!---
-kaito257747/kaito257747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

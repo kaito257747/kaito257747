@@ -1,4 +1,4 @@
-import requests
+import requests 1 argument 
 
 __ENDPOINT_URL__: str = "https://Carlcpmtool1.squareweb.app/api"
 

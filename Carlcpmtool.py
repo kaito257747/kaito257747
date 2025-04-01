@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3.12
 
 import random
 import requests

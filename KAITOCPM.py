@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from Carl import kaito257747
 
-__CHANNEL_USERNAME__ = "CarlcpmToolChannel"
-__GROUP_USERNAME__   = "CarlcpmToolChat"
+__CHANNEL_USERNAME__ = "KAITOCPMTOOlChannel"
+__GROUP_USERNAME__   = "KAITOTOOlChat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
